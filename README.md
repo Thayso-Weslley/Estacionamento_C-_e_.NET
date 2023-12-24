@@ -1,4 +1,4 @@
-# Estacinamento com .NET e C#
+# Estacionamento com .NET e C#
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
@@ -6,9 +6,6 @@ Para este desafio, você precisará usar seus conhecimentos adquiridos no módul
 ## Desafio concluido!
 Teste meu codigo de estacionamento feito com .NET e C#!
 Puxe o código, rode no terminal e veja como ele funciona.
-
-### Obs
-O código não está 100% perfeito, mas o tentarei deixa-lo com o passar do tempo e no adquirir de novos conhecimentos.
 
 ## Classes
 
@@ -25,3 +22,6 @@ O código não está 100% perfeito, mas o tentarei deixa-lo com o passar do temp
 **RemoverVeiculo**: Método responsável por verificar se um determinado veículo está estacionado, e caso positivo, irá pedir a quantidade de horas que ele permaneceu no estacionamento. Após isso, realiza o seguinte cálculo: **precoInicial** * **precoPorHora**, exibindo para o usuário.
 
 **ListarVeiculos**: Lista todos os veículos presentes atualmente no estacionamento. Caso não haja nenhum, exibir a mensagem "Não há veículos estacionados".
+
+## Obs
+O código não está 100% perfeito, mas o tentarei deixa-lo com o passar do tempo e no adquirir de novos conhecimentos.
